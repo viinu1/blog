@@ -10,3 +10,11 @@
     color: $red-color;
     width: 100px;
 }
+
+.user-avatar{
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 4px;
+}
